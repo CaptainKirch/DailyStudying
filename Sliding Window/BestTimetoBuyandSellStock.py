@@ -7,7 +7,6 @@
 # You want to buy once and sell once to maximize profit.
 # Return the max profit you can achieve. If no profit is possible, return 0.
 
-
 # def maxProfit(prices):
 #     max_profit = 0
 #     min_price = float('inf')
