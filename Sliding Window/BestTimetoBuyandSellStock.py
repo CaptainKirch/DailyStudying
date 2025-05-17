@@ -19,4 +19,3 @@
 #     return max_profit
 
 # print(maxProfit([7, 1, 5, 3, 6, 4])) # Expected: 5  (Buy at 1, Sell at 6)
-
